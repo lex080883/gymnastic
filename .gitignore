@@ -1,0 +1,13 @@
+# Logs
+*.log
+error_log
+
+# OS files
+.DS_Store
+
+# Node / build
+node_modules/
+
+# IDE
+.vscode/
+.idea/
